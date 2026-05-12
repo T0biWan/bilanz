@@ -1,0 +1,38 @@
+lebensmittel:
+  - name: lidl
+    match: any
+    rules:
+      - field: beguenstigter
+        regex: "(?i)lidl"
+
+  - name: edeka
+    match: any
+    rules:
+      - field: beguenstigter
+        regex: "(?i)edeka"
+      - field: verwendungszweck
+        regex: "(?i)edeka"
+
+streaming:
+  - name: spotify
+    match: any
+    rules:
+      - field: beguenstigter
+        regex: "(?i)spotify"
+
+einkommen:
+  - name: gehalt
+    match: any
+    rules:
+      - field: verwendungszweck
+        regex: "(?i)lohn|gehalt"
+
+# Example of AND logic: both fields must match
+test_and:
+  - name: dkb_sparplan
+    match: all
+    rules:
+      - field: beguenstigter
+        regex: "(?i)dkb"
+      - field: verwendungszweck
+        regex: "(?i)sparplan"
