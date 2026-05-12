@@ -1,0 +1,24 @@
+[project]
+name = "finance-bilanz"
+version = "0.1.0"
+description = "Banktransaktions-Preprocessing und Bilanz-Erstellung"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    "pyyaml>=6.0",
+    "pydantic>=2.0",
+    "typer>=0.9.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = ["-v", "--tb=short"]
