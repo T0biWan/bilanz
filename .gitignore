@@ -19,6 +19,7 @@ data/3_bilanz/*
 !data/0_raw/.gitkeep
 !data/1_processed/.gitkeep
 !data/3_bilanz/.gitkeep
+/data/*
  
 # Credentials
 credentials/
