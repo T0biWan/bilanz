@@ -1,0 +1,205 @@
+# Alle Gegenparteien, sortiert nach Häufigkeit.
+# LÖSCHE alle Zeilen mit Privatpersonen oder sonst Sensiblem.
+# Was hier stehen bleibt, wird beim Anonymisieren NICHT ersetzt.
+# Alles andere (auch neue Namen in späteren Exporten) wird pseudonymisiert.
+Amazon
+Edeka
+Konsumkonto
+REWE
+Sparkonto
+Lidl
+Google Play Store
+Spotify
+DKB
+Steam Games
+Rossmann
+Gemeinschaftakonto: Flexkosten
+Kaufland
+PayPal
+Gemeinschaftskonto: Fixkosten
+Audible
+Getraenke Hoffmann
+Netto
+Deutsche Bahn
+Netflix
+Ubermetrics
+Urban Sports Club
+DM
+Notgroschen
+Kapitalkonto
+Medios Apotheke
+Aldi
+Eventim
+FamilyMart
+Abbuchung
+AirBnB
+Vodafone
+Berliner Bau- und Wohnungsgenossenschaft
+IIMORI
+Congstar
+1&1
+PENNY
+Twerchhau
+7-Eleven Japan
+Zinsen
+LS Retail
+IKEA
+Bankueberweisung
+OpenAI
+Obi
+Cardmarket
+Kuchi
+Cinemaxx
+Burgermeister
+Vattenfall
+EAST BANK CLUB the fitness factory
+Deutsche Post
+Surfing Kalifornien
+City-Markt
+Gemeinschafts Tagesgeld
+Transact
+Lichtenberg Apotheke
+Wizards of the Coast
+HOLY
+Checkdomain
+Dynalist
+Karls Erlebnis-Dorf
+Gutschrift
+Autoroutes du Sud de la France
+MONTANA Energieversorgung
+Bauhaus
+Aral
+Berliner Verkehrsbetriebe
+Bundeskasse
+Zabka
+Amazon Instant Video
+Thangs
+IC Cash Services
+Nomad Barber
+Dong Open Air
+Grimm Apotheke
+OnlyFans
+Waldbuehne Berlin
+Schaefers
+MMOGA
+Vivantes
+LOGPAY
+Olympischer Sport-Club Berlin
+Kaufhaus Martin Stolz
+Lieferando
+Karls
+Go Asia
+Total
+Europa-Park
+Transact 22201364/berlin
+ARD ZDF Deutschlandradio
+Wuerttembergische Versicherung
+Vapiano
+ATAC Roma
+Giro
+Faits d'Armes
+Humble Bundle
+Denn's Biomarkt
+TS Trusted Services
+eTail.Market
+Rakuten
+Nijo-jo Castle
+Sachsen Therme
+Transit Restaurants
+Bolt
+Cults 3D
+Techniker Krankenkasse (TK)
+EDEKA
+Zalando
+Transact 22201364
+klarmobil
+Verti Versicherung
+Steinecke
+Dussmann KulturKaufhaus
+Burger King
+Biedronka
+Eveeno
+Transact GA 7413/Berlin
+Subway
+LAWSON
+Shell
+DEVK Allgemeine Versicherungs-AG
+McDonald's
+SCOOM
+Gamesplanet
+Mizu Ramen-X-Berg
+HIT
+H&M
+Nils-Erik Koslowski
+Hans im Glueck
+JET
+Globus
+Nipponya Shop
+Flaschenpost
+Pp.5055.pp .
+Phantasialand
+Sandra Treugut
+TOOM
+Pasta Factory
+Too Good To Go
+Uniqlo
+3754 Berlin-kreuzberg
+Decathlon
+Lekkerland
+AXA
+Bellmart
+FlixBus
+HEM/Tamoil
+Konsum
+Sternlicht Apotheke
+Hero Forge
+EURONICS
+Therme Erding
+LULA
+Wendl Baeckerei
+Etsy
+CineStar
+BM Supermercados
+Terraza Vertigo Atlanti
+Kreditkarten Geldanlage
+Wolt
+Berliner Finanzaemter
+ADAC
+Travelcircus
+LOT Polish Airlines
+Mint Gastro
+Simon's Diner
+GOG
+Easyjet
+GOG.com
+ADAC-Schutzbrief Versicherung
+Sparkasse
+Games Island
+Ullrich
+Booking.com
+Krasser Stoff
+Call a Pizza
+Wellcrafted
+Noodle Fan
+Zum Scheuen Reh
+Kinguin
+FrischeParadies
+Mindfactory
+Casualfood
+Airalo
+Delphi Filmtheater
+Dhillons
+Brauhaus Suedstern
+Hellweg
+Backwerk
+Reserved
+Budnikowsky
+Slavi Emilov
+Vector 3d
+ebay
+Channel Music
+Blue Corner Resort
+Braeugier Ostkreuz
+State Bank of India
+Fedral Sevim
+Liquidrom
