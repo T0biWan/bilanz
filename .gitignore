@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+
+# Echte Finanzdaten NIE committen – Exporte gehören nach daten/
+io/
+daten/
+/*.xlsx
+keep.txt
+redact.txt
+anon_key.txt
